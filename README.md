@@ -1,4 +1,6 @@
-# Source code for [https://henryave.com](https://henryave.com) built with Next JS 12+, Tailwind CSS 3 and TypeScript
+# Next.js Henryave.com
+
+Source code for [https://henryave.com](https://henryave.com) built with Next JS 12+, Tailwind CSS 3 and TypeScript
 
 ## Summary
 
