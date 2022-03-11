@@ -15,10 +15,11 @@ const VerticalFeatures = () => (
       imageAlt="Four Sisters Closet website"
     />
     <VerticalFeatureRow
-      title="Your title here"
+      title="Pamfa"
       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
-      image="/assets/images/feature2.svg"
-      imageAlt="Second feature alt text"
+      link="https://pamfa.com"
+      image="/assets/images/pamfa-project-small.png"
+      imageAlt="Pamfa website"
       reverse
     />
     <VerticalFeatureRow
