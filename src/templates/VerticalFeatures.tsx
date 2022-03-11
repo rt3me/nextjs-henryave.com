@@ -16,7 +16,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Pamfa"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      description="Pamfa United Citizens is a designer brand that takes pride in creating clothes that allow a person to be truly expressive. With the decision to create a site that meets the Pamfa level of excellence, came the decision to work with Henry Avenue. This project resulted in an e-commerce site, powered by WordPress, WooCommerce, and Stripe."
       link="https://pamfa.com"
       image="/assets/images/pamfa-project-small.png"
       imageAlt="Pamfa website"
