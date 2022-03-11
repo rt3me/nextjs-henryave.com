@@ -23,10 +23,11 @@ const VerticalFeatures = () => (
       reverse
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
-      image="/assets/images/feature3.svg"
-      imageAlt="Third feature alt text"
+      title="A Notary On the Go"
+      description="A Notary On the Go is a notary public offering service to the San Diego area. Henry Avenue created a new WordPress website with a responsive theme adjusting for viewing on any screen size as well as an attractive aesthetic."
+      link="https://anotaryonthego.henryave.com"
+      image="/assets/images/notary-project-small.png"
+      imageAlt="A Notary On the Go website"
     />
   </Section>
 );
