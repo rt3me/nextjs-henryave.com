@@ -13,7 +13,7 @@ const Hero = () => (
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="/#portfolio">
-            <a>Portfolio</a>
+            <a>Work</a>
           </Link>
         </li>
         <li>
@@ -28,7 +28,7 @@ const Hero = () => (
         </li>
         <li>
           <Link href="https://henry.host">
-            <a>Web Hosting</a>
+            <a>Hosting</a>
           </Link>
         </li>
       </NavbarTwoColumns>

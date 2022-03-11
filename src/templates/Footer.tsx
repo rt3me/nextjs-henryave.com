@@ -72,7 +72,7 @@ const Footer = () => (
       >
         <li>
           <Link href="/#portfolio">
-            <a>Portfolio</a>
+            <a>Work</a>
           </Link>
         </li>
         <li>
@@ -87,7 +87,7 @@ const Footer = () => (
         </li>
         <li>
           <Link href="https://henry.host">
-            <a>Web Hosting</a>
+            <a>Hosting</a>
           </Link>
         </li>
       </CenteredFooter>
