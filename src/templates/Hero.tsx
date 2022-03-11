@@ -21,6 +21,16 @@ const Hero = () => (
             <a>GitHub</a>
           </Link>
         </li>
+        <li>
+          <Link href="https://codewithrob.dev">
+            <a>Blog</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="https://henry.host">
+            <a>Web Hosting</a>
+          </Link>
+        </li>
       </NavbarTwoColumns>
     </Section>
 
