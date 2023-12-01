@@ -17,7 +17,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Four Sisters Closet"
-      description="Four Sisters Closet is a women's fashion boutique with a direct to consumer business model. They offer affordable clothing and accessories. Previously, the boutique shop used a free website provided by a credit card processor. The site presented opportunities for improvement in aesthetic, accessibility, performance, and search engine optimization. Four Sisters Closet decided to ask Henry Avenue to build a new site on the Shopify platform."
+      description="Four Sisters Closet is a fashion boutique offering affordable clothing and accessories with a direct to consumer business model. Previously, the boutique shop's previous site presented opportunities for improvement in aesthetic, accessibility, performance, and search engine optimization. Four Sisters Closet asked Henry Avenue to build a new site on the Shopify platform."
       link="https://foursisterscloset.com"
       image="/assets/images/four-sisters-project-small.png"
       imageAlt="Four Sisters Closet website"
