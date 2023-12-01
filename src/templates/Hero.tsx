@@ -38,11 +38,12 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'Modern web development\n'}
             <span className="text-primary-500">Henry Avenue</span>
+            <br />
+            {'Modern web development\n'}
           </>
         }
-        description="Get in touch to find out how we can help you or take a look at some of our work below"
+        description="Get in touch to talk about how we can work together or take a look at some of our work below"
         button={
           <Link href="mailto:hello@henryave.com">
             <a>
