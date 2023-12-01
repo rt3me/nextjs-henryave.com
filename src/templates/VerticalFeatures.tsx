@@ -16,15 +16,15 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="A Notary On the Go"
-      description="A Notary On the Go is a notary public offering service to the San Diego area. Henry Avenue created a new WordPress website with a responsive theme adjusting for viewing on any screen size as well as an attractive aesthetic."
-      link="https://anotaryonthego.henryave.com"
+      description="A Notary On the Go is a notary public offering service to the San Diego area. With the goal of creating a web presence that properly represents this quality small business, Henry Avenue was commissioned to create a new WordPress website with a responsive theme and an updated design."
+      link="https://anotaryonthego.com"
       image="/assets/images/notary-project-small.png"
       imageAlt="A Notary On the Go website"
       reverse
     />
     <VerticalFeatureRow
       title="Four Sisters Closet"
-      description="Four Sisters Closet is a women's clothing boutique operating exclusively online. They offer affordable clothing and accessories. Previously, the boutique shop used a free website provided by a credit card processor. The site was visually unappealing, performed slowly, and had poor SEO. Four Sisters Closet decided to ask Henry Avenue to build a new site on the Shopify platform."
+      description="Four Sisters Closet is a women's fashion boutique with a direct to consumer business model. They offer affordable clothing and accessories. Previously, the boutique shop used a free website provided by a credit card processor. The site presented opportunities for improvement in aesthetic, accessibility, performance, and search engine optimization. Four Sisters Closet decided to ask Henry Avenue to build a new site on the Shopify platform."
       link="https://foursisterscloset.com"
       image="/assets/images/four-sisters-project-small.png"
       imageAlt="Four Sisters Closet website"
