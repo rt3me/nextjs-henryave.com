@@ -1,7 +1,7 @@
 # Next.js Henryave.com
 
-Source code for [https://henryave.com](https://henryave.com) built with Next JS 12+, Tailwind CSS 3 and TypeScript
+Current build of [https://henryave.com](https://henryave.com) created with Next JS 12, Tailwind CSS 3 and TypeScript
 
-## Summary
+## Tech
 
-Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.
+Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, PostCSS, Tailwind CSS, Vercel
